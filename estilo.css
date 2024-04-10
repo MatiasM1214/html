@@ -213,3 +213,10 @@
     background-color: white;
     color: black;
 }
+.footer{
+    background-color: black;
+    color: red;
+}
+.footer p{
+    font-size: 25px;
+}
